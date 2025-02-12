@@ -1,7 +1,6 @@
 import './App.css'
-import Body from './componentes/Body'
-import Demo1 from './componentes/Demo1'
-import Header from './componentes/Header'
+import Body from './components/Body'
+import Header from './components/Header'
 
 function App() {
 
@@ -9,7 +8,6 @@ function App() {
     <>
         <Header />
         <Body />
-        <Demo1 />
     </>
   )
 }
